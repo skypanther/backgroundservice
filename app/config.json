@@ -1,0 +1,12 @@
+{
+	"global": {}, 
+	"env:development": {}, 
+	"env:test": {}, 
+	"env:production": {}, 
+	"env:adhoc": {}, 
+	"os:android": {},
+	"os:blackberry": {},
+	"os:ios": {},
+	"os:mobileweb": {},
+	"dependencies": {}
+}
